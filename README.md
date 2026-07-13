@@ -10,3 +10,8 @@
 ### Vias de contacto
 
 ninguna todavia XD
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
